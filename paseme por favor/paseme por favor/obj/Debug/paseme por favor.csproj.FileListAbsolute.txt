@@ -1,0 +1,11 @@
+C:\Users\delan\OneDrive\Escritorio\computo\paseme por favor\paseme por favor\bin\Debug\paseme por favor.exe.config
+C:\Users\delan\OneDrive\Escritorio\computo\paseme por favor\paseme por favor\bin\Debug\paseme por favor.exe
+C:\Users\delan\OneDrive\Escritorio\computo\paseme por favor\paseme por favor\bin\Debug\paseme por favor.pdb
+C:\Users\delan\OneDrive\Escritorio\computo\paseme por favor\paseme por favor\obj\Debug\paseme por favor.csproj.AssemblyReference.cache
+C:\Users\delan\OneDrive\Escritorio\computo\paseme por favor\paseme por favor\obj\Debug\paseme por favor.csproj.SuggestedBindingRedirects.cache
+C:\Users\delan\OneDrive\Escritorio\computo\paseme por favor\paseme por favor\obj\Debug\paseme_por_favor.Form1.resources
+C:\Users\delan\OneDrive\Escritorio\computo\paseme por favor\paseme por favor\obj\Debug\paseme_por_favor.Properties.Resources.resources
+C:\Users\delan\OneDrive\Escritorio\computo\paseme por favor\paseme por favor\obj\Debug\paseme por favor.csproj.GenerateResource.cache
+C:\Users\delan\OneDrive\Escritorio\computo\paseme por favor\paseme por favor\obj\Debug\paseme por favor.csproj.CoreCompileInputs.cache
+C:\Users\delan\OneDrive\Escritorio\computo\paseme por favor\paseme por favor\obj\Debug\paseme por favor.exe
+C:\Users\delan\OneDrive\Escritorio\computo\paseme por favor\paseme por favor\obj\Debug\paseme por favor.pdb
